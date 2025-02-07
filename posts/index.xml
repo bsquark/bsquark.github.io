@@ -2,20 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 夸克のBlog</title>
-    <link>https://bsquark.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on 夸克のBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 - 2025 蓝色奇夸克 All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Feb 2025 20:42:53 +0800</lastBuildDate><atom:link href="https://bsquark.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Nov 2024 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My First Post</title>
-      <link>https://bsquark.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 07 Feb 2025 20:42:53 +0800</pubDate>
+      <title>摘不下的面具</title>
+      <link>http://localhost:1313/posts/2503/</link>
+      <pubDate>Tue, 26 Nov 2024 08:00:00 +0800</pubDate>
       
-      <guid>https://bsquark.github.io/posts/my-first-post/</guid>
-      <description>hhh</description>
+      <guid>http://localhost:1313/posts/2503/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>交大之夜</title>
+      <link>http://localhost:1313/posts/2502/</link>
+      <pubDate>Tue, 01 Oct 2024 08:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2502/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>数学 - 1.集合与关系</title>
+      <link>http://localhost:1313/posts/2501/</link>
+      <pubDate>Sun, 29 Sep 2024 08:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2501/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>当全国I卷作文遇到人工智能</title>
+      <link>http://localhost:1313/posts/2403/</link>
+      <pubDate>Fri, 07 Jun 2024 08:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2403/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>关于新定义速度的讨论</title>
+      <link>http://localhost:1313/posts/2305/</link>
+      <pubDate>Fri, 01 Dec 2023 08:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2305/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>三山岛居民生产、劳动方式演化的调研</title>
+      <link>http://localhost:1313/posts/2304/</link>
+      <pubDate>Mon, 20 Nov 2023 08:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2304/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>浅谈弹性与碰撞：从小球的反弹看碰撞的奥秘</title>
+      <link>http://localhost:1313/posts/2303/</link>
+      <pubDate>Wed, 01 Nov 2023 08:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2303/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>牛顿白光色散实验的科学原理</title>
+      <link>http://localhost:1313/posts/2302/</link>
+      <pubDate>Fri, 29 Sep 2023 08:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2302/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;输出谢尔宾斯基三角形</title>
+      <link>http://localhost:1313/posts/2204/</link>
+      <pubDate>Mon, 07 Nov 2022 20:42:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2204/</guid>
+      <description></description>
       
     </item>
     
