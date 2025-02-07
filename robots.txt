@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bsquark.github.io/sitemap.xml
